@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+
+*.pth
+
+data/record/*
+data/result/*
+
+PigImageData/Train/
+PigImageData/Val/
+PigImageData/Test/
+
+PigImageData/Train_annotations.json
+PigImageData/Val_annotations.json
+PigImageData/Test_annotations.json
+PigImageData/weight_data.json
