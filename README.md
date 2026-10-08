@@ -22,8 +22,7 @@ The image data and corresponding annotations can be downloaded from the LISAP da
 - [BaiduNetdisk](https://pan.baidu.com/share/init?surl=pTzheIyYFX-LRDYEtta4kw&pwd=hzau)
 - [CIEN-LWEN](https://github.com/TXiang-lab/CIEN-LWEN)
 
-For backfat thickness prediction, place `bf_data.json` under `PigImageData`.
-For liveweight prediction, place `weight_data.json` under `PigImageData`.
+Place `weight_data.json` and `bf_data.json` in the `PigImageData` directory for liveweight and backfat thickness prediction, respectively.
 
 Organize the data as follows:
 
