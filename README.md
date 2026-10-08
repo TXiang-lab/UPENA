@@ -46,7 +46,9 @@ UPENA/
 
 ## Pretrained Models
 
-Download the pretrained models from the GitHub Releases page and place them as follows:
+The pretrained models for liveweight and backfat thickness prediction can be downloaded from the following links:
+[Liveweight](https://github.com/TXiang-lab/UPENA/releases/download/v1.0.0/liveweight.pth)
+[Backfat](https://github.com/TXiang-lab/UPENA/releases/download/v1.0.0/backfat.pth)
 
 ```text
 data/model/
